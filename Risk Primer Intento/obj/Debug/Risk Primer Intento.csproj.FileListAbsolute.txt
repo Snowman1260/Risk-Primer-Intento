@@ -1,0 +1,10 @@
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\bin\Debug\Risk Primer Intento.exe.config
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\bin\Debug\Risk Primer Intento.exe
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\bin\Debug\Risk Primer Intento.pdb
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk Primer Intento.csprojAssemblyReference.cache
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk_Primer_Intento.Form1.resources
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk_Primer_Intento.Properties.Resources.resources
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk Primer Intento.csproj.GenerateResource.cache
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk Primer Intento.csproj.CoreCompileInputs.cache
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk Primer Intento.exe
+c:\users\stevi\source\repos\Risk Primer Intento\Risk Primer Intento\obj\Debug\Risk Primer Intento.pdb
